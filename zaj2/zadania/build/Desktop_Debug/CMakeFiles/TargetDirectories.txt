@@ -1,0 +1,7 @@
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/zadania.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/edit_cache.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/list_install_components.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/install.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/install/local.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/install/strip.dir

@@ -1,0 +1,3 @@
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj1_1/superprojekt/build/Desktop_Debug/CMakeFiles/superprojekt.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj1_1/superprojekt/build/Desktop_Debug/CMakeFiles/edit_cache.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj1_1/superprojekt/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
