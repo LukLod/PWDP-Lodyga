@@ -1,5 +1,6 @@
 #include <iostream>
-
+#include <string>
+#include <format>
 //using namespace std;
 
 int main()
@@ -38,11 +39,18 @@ int main()
 
     std::cout<<"\n\nZadanie 4\n\n";
 
-    char c1 = 0xC4;
+    char c1 = 0xc4;
     char c2 = 0x84;
     char c3 = 0x0a;
 
-    std::cout<<c1+' '+c2+' '+c3;
+    std::cout<<c1;
+    std::cout<<c2;
+    std::cout<<c3;
+
+    std::cout<<"\n\nZadanie 5\n\n";
+
+    char tab = '\n';
+    std::cout << std::format("{:x}", tab);
 
     return 0;
 }
