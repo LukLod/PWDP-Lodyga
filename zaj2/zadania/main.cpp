@@ -50,7 +50,21 @@ int main()
     std::cout<<"\n\nZadanie 5\n\n";
 
     char tab = '\n';
-    std::cout << std::format("{:x}", tab);
+    std::cout<<std::format("{:x}", tab)<<"\n\n";
+
+    std::cout<<"\n\nZadanie 6\n\n";
+
+    std::string text;
+
+    std::cout<<"Wpisz tekst: ";
+    std::cin>>text;
+
+    std::cout<<"Przekonwertowany tekst: ";
+    for(auto l:text){
+    std::cout<<std::format("{:x}", l);
+    }
+
+
 
     return 0;
 }
