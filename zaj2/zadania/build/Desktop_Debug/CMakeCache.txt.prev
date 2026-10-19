@@ -469,5 +469,5 @@ CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 CMAKE_WARN_DEPRECATED:INTERNAL=ON
 QTCREATOR_CMAKE_HELPER_DIRECTORY:INTERNAL=/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/.qtcreator/cmake-helper
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/usr/local
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/tmp
 

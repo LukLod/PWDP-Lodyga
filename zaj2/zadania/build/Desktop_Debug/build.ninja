@@ -41,42 +41,232 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /home/tailax/Pulpit/szkola/wstęp$ do$ programowania/zaj2/zadania/build/Desktop_Debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target zadania
+# Object build statements for EXECUTABLE target zadanie1
 
 
 #############################################
-# Order-only phony target for zadania
+# Order-only phony target for zadanie1
 
-build cmake_object_order_depends_target_zadania: phony || .
+build cmake_object_order_depends_target_zadanie1: phony || .
 
-build CMakeFiles/zadania.dir/main.cpp.o: CXX_COMPILER__zadania_unscanned_Debug /home/tailax/Pulpit/szkola/wstęp$ do$ programowania/zaj2/zadania/main.cpp || cmake_object_order_depends_target_zadania
+build CMakeFiles/zadanie1.dir/zad1.cpp.o: CXX_COMPILER__zadanie1_unscanned_Debug /home/tailax/Pulpit/szkola/wstęp$ do$ programowania/zaj2/zadania/zad1.cpp || cmake_object_order_depends_target_zadanie1
   CONFIG = Debug
   DEFINES = -DQT_QML_DEBUG
-  DEP_FILE = CMakeFiles/zadania.dir/main.cpp.o.d
+  DEP_FILE = CMakeFiles/zadanie1.dir/zad1.cpp.o.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/zadania.dir
-  OBJECT_FILE_DIR = CMakeFiles/zadania.dir
-  TARGET_SUPPORT_DIR = CMakeFiles/zadania.dir
+  OBJECT_DIR = CMakeFiles/zadanie1.dir
+  OBJECT_FILE_DIR = CMakeFiles/zadanie1.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target zadania
+# Link build statements for EXECUTABLE target zadanie1
 
 
 #############################################
-# Link the executable zadania
+# Link the executable zadanie1
 
-build zadania: CXX_EXECUTABLE_LINKER__zadania_Debug CMakeFiles/zadania.dir/main.cpp.o
+build zadanie1: CXX_EXECUTABLE_LINKER__zadanie1_Debug CMakeFiles/zadanie1.dir/zad1.cpp.o
   CONFIG = Debug
-  DEP_FILE = CMakeFiles/zadania.dir/link.d
+  DEP_FILE = CMakeFiles/zadanie1.dir/link.d
   FLAGS = -g
-  LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/zadania.dir/link.d
-  OBJECT_DIR = CMakeFiles/zadania.dir
+  LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/zadanie1.dir/link.d
+  OBJECT_DIR = CMakeFiles/zadanie1.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = zadania
-  TARGET_PDB = zadania.dbg
-  TARGET_SUPPORT_DIR = CMakeFiles/zadania.dir
+  TARGET_FILE = zadanie1
+  TARGET_PDB = zadanie1.dbg
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie1.dir
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zadanie2
+
+
+#############################################
+# Order-only phony target for zadanie2
+
+build cmake_object_order_depends_target_zadanie2: phony || .
+
+build CMakeFiles/zadanie2.dir/zad2.cpp.o: CXX_COMPILER__zadanie2_unscanned_Debug /home/tailax/Pulpit/szkola/wstęp$ do$ programowania/zaj2/zadania/zad2.cpp || cmake_object_order_depends_target_zadanie2
+  CONFIG = Debug
+  DEFINES = -DQT_QML_DEBUG
+  DEP_FILE = CMakeFiles/zadanie2.dir/zad2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zadanie2.dir
+  OBJECT_FILE_DIR = CMakeFiles/zadanie2.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zadanie2
+
+
+#############################################
+# Link the executable zadanie2
+
+build zadanie2: CXX_EXECUTABLE_LINKER__zadanie2_Debug CMakeFiles/zadanie2.dir/zad2.cpp.o
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/zadanie2.dir/link.d
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/zadanie2.dir/link.d
+  OBJECT_DIR = CMakeFiles/zadanie2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zadanie2
+  TARGET_PDB = zadanie2.dbg
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie2.dir
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zadanie3
+
+
+#############################################
+# Order-only phony target for zadanie3
+
+build cmake_object_order_depends_target_zadanie3: phony || .
+
+build CMakeFiles/zadanie3.dir/zad3.cpp.o: CXX_COMPILER__zadanie3_unscanned_Debug /home/tailax/Pulpit/szkola/wstęp$ do$ programowania/zaj2/zadania/zad3.cpp || cmake_object_order_depends_target_zadanie3
+  CONFIG = Debug
+  DEFINES = -DQT_QML_DEBUG
+  DEP_FILE = CMakeFiles/zadanie3.dir/zad3.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zadanie3.dir
+  OBJECT_FILE_DIR = CMakeFiles/zadanie3.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zadanie3
+
+
+#############################################
+# Link the executable zadanie3
+
+build zadanie3: CXX_EXECUTABLE_LINKER__zadanie3_Debug CMakeFiles/zadanie3.dir/zad3.cpp.o
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/zadanie3.dir/link.d
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/zadanie3.dir/link.d
+  OBJECT_DIR = CMakeFiles/zadanie3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zadanie3
+  TARGET_PDB = zadanie3.dbg
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie3.dir
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zadanie4
+
+
+#############################################
+# Order-only phony target for zadanie4
+
+build cmake_object_order_depends_target_zadanie4: phony || .
+
+build CMakeFiles/zadanie4.dir/zad4.cpp.o: CXX_COMPILER__zadanie4_unscanned_Debug /home/tailax/Pulpit/szkola/wstęp$ do$ programowania/zaj2/zadania/zad4.cpp || cmake_object_order_depends_target_zadanie4
+  CONFIG = Debug
+  DEFINES = -DQT_QML_DEBUG
+  DEP_FILE = CMakeFiles/zadanie4.dir/zad4.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zadanie4.dir
+  OBJECT_FILE_DIR = CMakeFiles/zadanie4.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zadanie4
+
+
+#############################################
+# Link the executable zadanie4
+
+build zadanie4: CXX_EXECUTABLE_LINKER__zadanie4_Debug CMakeFiles/zadanie4.dir/zad4.cpp.o
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/zadanie4.dir/link.d
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/zadanie4.dir/link.d
+  OBJECT_DIR = CMakeFiles/zadanie4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zadanie4
+  TARGET_PDB = zadanie4.dbg
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie4.dir
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zadanie5
+
+
+#############################################
+# Order-only phony target for zadanie5
+
+build cmake_object_order_depends_target_zadanie5: phony || .
+
+build CMakeFiles/zadanie5.dir/zad5.cpp.o: CXX_COMPILER__zadanie5_unscanned_Debug /home/tailax/Pulpit/szkola/wstęp$ do$ programowania/zaj2/zadania/zad5.cpp || cmake_object_order_depends_target_zadanie5
+  CONFIG = Debug
+  DEFINES = -DQT_QML_DEBUG
+  DEP_FILE = CMakeFiles/zadanie5.dir/zad5.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zadanie5.dir
+  OBJECT_FILE_DIR = CMakeFiles/zadanie5.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zadanie5
+
+
+#############################################
+# Link the executable zadanie5
+
+build zadanie5: CXX_EXECUTABLE_LINKER__zadanie5_Debug CMakeFiles/zadanie5.dir/zad5.cpp.o
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/zadanie5.dir/link.d
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/zadanie5.dir/link.d
+  OBJECT_DIR = CMakeFiles/zadanie5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zadanie5
+  TARGET_PDB = zadanie5.dbg
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie5.dir
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zadanie6
+
+
+#############################################
+# Order-only phony target for zadanie6
+
+build cmake_object_order_depends_target_zadanie6: phony || .
+
+build CMakeFiles/zadanie6.dir/zad6.cpp.o: CXX_COMPILER__zadanie6_unscanned_Debug /home/tailax/Pulpit/szkola/wstęp$ do$ programowania/zaj2/zadania/zad6.cpp || cmake_object_order_depends_target_zadanie6
+  CONFIG = Debug
+  DEFINES = -DQT_QML_DEBUG
+  DEP_FILE = CMakeFiles/zadanie6.dir/zad6.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zadanie6.dir
+  OBJECT_FILE_DIR = CMakeFiles/zadanie6.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie6.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zadanie6
+
+
+#############################################
+# Link the executable zadanie6
+
+build zadanie6: CXX_EXECUTABLE_LINKER__zadanie6_Debug CMakeFiles/zadanie6.dir/zad6.cpp.o
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/zadanie6.dir/link.d
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/zadanie6.dir/link.d
+  OBJECT_DIR = CMakeFiles/zadanie6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zadanie6
+  TARGET_PDB = zadanie6.dbg
+  TARGET_SUPPORT_DIR = CMakeFiles/zadanie6.dir
 
 
 #############################################
@@ -155,7 +345,7 @@ build install/strip: phony CMakeFiles/install/strip.util
 #############################################
 # Folder: /home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug
 
-build all: phony zadania
+build all: phony zadanie1 zadanie2 zadanie3 zadanie4 zadanie5 zadanie6
 
 # =============================================================================
 # Built-in targets

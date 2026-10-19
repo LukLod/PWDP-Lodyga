@@ -1499,7 +1499,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local"
+			"value" : "/tmp"
 		},
 		{
 			"name" : "zadania_BINARY_DIR",

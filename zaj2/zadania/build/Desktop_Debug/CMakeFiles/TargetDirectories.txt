@@ -1,4 +1,9 @@
-/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/zadania.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/zadanie1.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/zadanie2.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/zadanie3.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/zadanie4.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/zadanie5.dir
+/home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/zadanie6.dir
 /home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/edit_cache.dir
 /home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
 /home/tailax/Pulpit/szkola/wstęp do programowania/zaj2/zadania/build/Desktop_Debug/CMakeFiles/list_install_components.dir

@@ -1,0 +1,98 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c7bfdccb4c2b5b052b7a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zadania",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "zadanie1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadanie1-Debug-d9778f272118141d5a65.json",
+					"name" : "zadanie1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadanie2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadanie2-Debug-d89a3e054102d83b36f2.json",
+					"name" : "zadanie2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadanie3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadanie3-Debug-531ec2db3f0445a0924b.json",
+					"name" : "zadanie3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadanie4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadanie4-Debug-62c905802de4bfebd91a.json",
+					"name" : "zadanie4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadanie5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadanie5-Debug-2d448939bac119fa823c.json",
+					"name" : "zadanie5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tailax/Pulpit/szkola/wst\u0119p do programowania/zaj2/zadania/build/Desktop_Debug",
+		"source" : "/home/tailax/Pulpit/szkola/wst\u0119p do programowania/zaj2/zadania"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}
